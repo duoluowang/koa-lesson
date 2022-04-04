@@ -1,1 +1,1 @@
-import './lesson-1'
+require('./lesson-1')
